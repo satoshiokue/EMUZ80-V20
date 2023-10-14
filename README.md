@@ -75,7 +75,7 @@ V30/V20
 ]
 ```
 INTEL8080 Based x86 BASIC  
-https://github.com/satoshiokue/8086_NASCOM_BASIC
+https://github.com/satoshiokue/8086_NASCOM_BASIC  
 
 Universal Monitor  
 https://electrelic.com/electrelic/node/1317  
