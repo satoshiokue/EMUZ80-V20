@@ -74,7 +74,7 @@ Universal Monitor 8086
 V30/V20
 ]
 ```
-INTEL8080 Based x86 BASIC
+INTEL8080 Based x86 BASIC  
 https://github.com/satoshiokue/8086_NASCOM_BASIC
 
 Universal Monitor  
